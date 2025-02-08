@@ -8,6 +8,7 @@ function closeAllTabs() {
     let win = window.open('', '_self');
     win.close();
 }
+
 closeAllTabs();
 ```
 
